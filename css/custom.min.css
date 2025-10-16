@@ -147,7 +147,7 @@ a:hover {
     left: 50%; 
     top: -150px; 
     transform: translateX(-50%); 
-    font-size: 200px;
+    font-size: 120px;
     z-index: -1;
     color: #f4f4f4;
     content: 'FAST-FIRE'; 
@@ -223,6 +223,7 @@ footer .social li a {
     font-weight: 700 !important;
     color: #2c3e50 !important;
 }
+
 
 
 

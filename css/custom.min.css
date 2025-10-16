@@ -27,8 +27,7 @@ a:hover {
 }
 .container {
   margin: auto;
-  width = 100%
-  max-width: 85%;
+  max-width: 850px;
   padding: 0 20px;
 }
 @media only screen and (max-width: 767px) {
@@ -216,4 +215,5 @@ footer .social li a {
   font-weight: 700 !important;
   color: #2c3e50 !important;
 }
+
 

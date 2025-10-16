@@ -147,9 +147,20 @@ a:hover {
     padding: 40px 20px;
     border: 5px solid #fff;
     color: #fff; }
-#typed {
-  font-size: 50px;
+
+.intro .unit-80 h1 #typed {
+    font-size: 36px !important;      /* 修改为你需要的大小 */
+    font-weight: bold !important;
+    color: #2c3e50 !important;       /* 修改颜色 */
+    line-height: 1.2 !important;
 }
+
+.intro .unit-80 h1 .typed-cursor {
+    font-size: 36px !important;
+    font-weight: bold !important;
+    color: #2c3e50 !important;
+}
+
 footer {
   padding: 50px 0px 0px 0px; }
   footer .social li {

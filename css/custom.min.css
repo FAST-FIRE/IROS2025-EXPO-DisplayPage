@@ -145,7 +145,7 @@ a:hover {
 .intro h1:before {
     position: absolute;
     left: 50%; 
-    top: -150px; 
+    top: -50px; 
     transform: translateX(-50%); 
     font-size: 60px;
     z-index: -1;
@@ -223,6 +223,7 @@ footer .social li a {
     font-weight: 700 !important;
     color: #2c3e50 !important;
 }
+
 
 
 

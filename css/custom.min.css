@@ -127,7 +127,7 @@ a:hover {
   width: 81px;
   height: 81px;
   border-radius: 99px;
-  margin-top: -15px;
+  margin-top: -20px;
 }
 .intro .unit-20 img {
   display: block;
@@ -209,13 +209,14 @@ footer .social li a {
   font-weight: 700 !important;
   color: #2c3e50 !important;
   line-height: 1.3 !important;
-  margin-left: 60px;
+  margin-left: 100px;
 }
 .typed-cursor {
   font-size: 36px !important;
   font-weight: 700 !important;
   color: #2c3e50 !important;
 }
+
 
 
 
